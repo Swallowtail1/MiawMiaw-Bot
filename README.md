@@ -5,7 +5,7 @@ Bot Discord ini dirancang khusus untuk menjadi asisten belajar dan pengingat tug
 ## Fitur Utama
 - **Manajemen Tugas (CRUD):** Tambah, lihat, dan selesaikan tugas langsung lewat ruang obrolan Discord.
 - **Database SQLite Persisten:** Data tugas tetap aman tersimpan di dalam file lokal meskipun bot di-restart atau mati.
-- **Pengingat Otomatis (Cron Job):** Bot akan otomatis mengirimkan ringkasan tugas yang belum selesai ke channel tertentu setiap hari pada pukul 08:00 WIB.
+- **Pengingat Otomatis (Cron Job):** Bot akan otomatis mengirimkan ringkasan tugas yang belum selesai ke channel tertentu setiap hari pada pukul 06:00 WIB.
 - **Tampilan Informatif:** Menggunakan Discord Embeds berwarna yang rapi untuk kenyamanan visual.
 
 ---
